@@ -13,9 +13,3 @@ Building an e-commerce platform from scratch because apparently I enjoy pain and
 ## Find Me
 
 **Telegram:** [@Cenaure](https://t.me/Cenaure)
-
----
-
-*"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — Martin Fowler
-
-(I'm still working on the "humans can understand" part)
