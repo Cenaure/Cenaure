@@ -12,4 +12,5 @@ Building an e-commerce platform from scratch because apparently I enjoy pain and
 
 ## Find Me
 
+**Portfolio:** [cenaure.xyz](https://cenaure.xyz)
 **Telegram:** [@Cenaure](https://t.me/Cenaure)
