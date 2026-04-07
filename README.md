@@ -1,6 +1,5 @@
 ![gif](https://media.giphy.com/media/blHrq0SycMNMs/giphy.gif)
-
-> Student by day, developer by night, Arch user by choice (I use Arch btw)
+> Wild Arch Linux user reinstalling their OS
 
 ## What I Do
 
